@@ -6,8 +6,8 @@
 # 🔧 Used tools
 - React
 - React router
-[HTML]
-[CSS] 
+- [HTML]
+- [CSS] 
 
 # Installation steps
 
